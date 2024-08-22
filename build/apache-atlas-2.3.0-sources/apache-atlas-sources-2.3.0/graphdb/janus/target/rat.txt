@@ -1,0 +1,81 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-08-21T13:08:32+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 55
+
+Apache Licensed: 55
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/pom.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/migration/ReaderStatusManagerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/migration/JsonNodeParsersTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/migration/PostProcessListPropertyTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/migration/MappedElementCacheTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/migration/BaseUtils.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/migration/GraphSONUtilityTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/GraphQueryTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/AtlasSolrQueryBuilderTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/JanusGraphProviderTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/AbstractGraphDatabaseTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusDatabaseTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/test/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusGraphIndexClientTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/janusgraph/diskstorage/es/ElasticSearch7Index.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/janusgraph/diskstorage/solr/Solr6Index.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/TypesDefScrubber.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/GraphSONUtility.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/PostProcessManager.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/ReaderStatusManager.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/GraphSONTokensTP2.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/MappedElementCache.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/ElementProcessors.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/JsonNodeParsers.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/AtlasGraphSONReader.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/GraphDBGraphSONMigrator.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/postProcess/PostProcessListProperty.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/JsonNodeProcessManager.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/TypesWithCollectionsFinder.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/migration/RelationshipCacheGenerator.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusElement.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/serializer/BigIntegerSerializer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/serializer/TypeCategorySerializer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/serializer/BigDecimalSerializer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusObjectFactory.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusGraphIndex.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/GraphDbObjectFactory.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/graphson/AtlasGraphSONUtility.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/graphson/AtlasElementPropertyConfig.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/graphson/AtlasGraphSONTokens.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/graphson/AtlasGraphSONMode.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusVertexQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusEdgeLabel.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusEdge.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusIndexQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasSolrQueryBuilder.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusIndexQueryParameter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusGraphIndexClient.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusGraphTraversal.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/query/NativeJanusGraphQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/query/AtlasJanusGraphQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusPropertyKey.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusGraph.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusGraphManagement.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusGraphDatabase.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus/src/main/java/org/apache/atlas/repository/graphdb/janus/AtlasJanusVertex.java
+ 
+*****************************************************

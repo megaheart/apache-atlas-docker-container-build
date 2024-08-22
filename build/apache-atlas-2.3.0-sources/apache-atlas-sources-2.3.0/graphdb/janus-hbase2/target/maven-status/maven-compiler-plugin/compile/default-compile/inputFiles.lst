@@ -1,0 +1,12 @@
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HBaseAdmin2_0.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HConnection2_0.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HBaseTransaction.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HBaseCompatLoader.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/ConnectionMask.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HBaseCompat.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HBaseCompat2_0.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HBaseKeyColumnValueStore.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/TableMask.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HTable2_0.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/HBaseStoreManager.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/janus-hbase2/src/main/java/org/janusgraph/diskstorage/hbase2/AdminMask.java

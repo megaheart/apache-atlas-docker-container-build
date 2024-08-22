@@ -1,0 +1,10 @@
+org/apache/atlas/repository/graphdb/tinkerpop/query/expr/InPredicate.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/NativeTinkerpopGraphQuery.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/expr/QueryPredicate.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/expr/OrCondition.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/expr/OrderByPredicate.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/expr/AndCondition.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/expr/HasPredicate.class
+org/apache/atlas/repository/graphdb/utils/IteratorToIterableAdapter.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/NativeTinkerpopQueryFactory.class
+org/apache/atlas/repository/graphdb/tinkerpop/query/TinkerpopGraphQuery.class

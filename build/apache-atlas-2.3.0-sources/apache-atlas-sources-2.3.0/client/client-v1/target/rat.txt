@@ -1,0 +1,32 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-08-21T13:08:16+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 6
+
+Apache Licensed: 6
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/client-v1/pom.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/client-v1/src/test/java/org/apache/atlas/AtlasClientTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/client-v1/src/main/java/org/apache/atlas/AtlasAdminClient.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/client-v1/src/main/java/org/apache/atlas/CreateUpdateEntitiesResult.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/client-v1/src/main/java/org/apache/atlas/EntityAuditEvent.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/client-v1/src/main/java/org/apache/atlas/AtlasClient.java
+ 
+*****************************************************

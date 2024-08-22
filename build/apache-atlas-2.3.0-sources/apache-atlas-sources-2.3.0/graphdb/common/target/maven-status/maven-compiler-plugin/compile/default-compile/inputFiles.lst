@@ -1,0 +1,10 @@
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/TinkerpopGraphQuery.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/OrCondition.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/AndCondition.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/NativeTinkerpopGraphQuery.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/NativeTinkerpopQueryFactory.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/QueryPredicate.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/InPredicate.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/HasPredicate.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/OrderByPredicate.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/utils/IteratorToIterableAdapter.java

@@ -1,0 +1,84 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-08-21T13:08:22+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 58
+
+Apache Licensed: 58
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/pom.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/hook/AtlasTopicCreatorTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/hook/AtlasHookTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/kafka/KafkaNotificationMockTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/kafka/KafkaNotificationTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/kafka/KafkaConsumerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/AbstractNotificationConsumerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/hook/HookNotificationDeserializerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/hook/HookNotificationTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/AtlasNotificationMessageTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/AbstractNotificationTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/SplitMessageAggregatorTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/spool/AtlasFileSpoolTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/spool/IndexManagementTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/spool/BaseTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/entity/EntityNotificationDeserializerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/entity/EntityNotificationTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/test/java/org/apache/atlas/notification/MessageVersionTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/hook/AtlasHookException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/hook/FailedMessagesLogger.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/hook/AtlasTopicCreator.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/hook/AtlasHook.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/kafka/AtlasKafkaConsumer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/kafka/NotificationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/kafka/AtlasKafkaMessage.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/kafka/EmbeddedKafkaServer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/kafka/KafkaNotification.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/util/CommandHandlerUtility.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/LogConfigUtils.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/NotificationConsumer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/MessageDeserializer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/AbstractNotification.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/NotificationInterface.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/hook/HookMessageDeserializer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/IncompatibleVersionException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/AtlasNotificationMessageDeserializer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/AbstractMessageDeserializer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/NotificationException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/AbstractNotificationConsumer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/Publisher.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/FileOperations.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/Spooler.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/Archiver.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/models/IndexRecords.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/models/IndexRecord.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/SpoolConfiguration.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/utils/local/FileOpAppend.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/utils/local/FileOpRead.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/utils/local/FileOpUpdate.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/utils/local/FileLockedReadWrite.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/utils/local/FileOperation.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/utils/local/FileOpCompaction.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/utils/local/FileOpDelete.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/IndexManagement.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/AtlasFileSpool.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/spool/SpoolUtils.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/SplitMessageAggregator.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/notification/src/main/java/org/apache/atlas/notification/entity/EntityMessageDeserializer.java
+ 
+*****************************************************

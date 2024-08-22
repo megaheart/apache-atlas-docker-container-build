@@ -1,0 +1,16 @@
+org/janusgraph/diskstorage/hbase2/TableMask.class
+org/janusgraph/diskstorage/hbase2/HBaseKeyColumnValueStore.class
+org/janusgraph/diskstorage/hbase2/HBaseKeyColumnValueStore$RowIterator$1.class
+org/janusgraph/diskstorage/hbase2/ConnectionMask.class
+org/janusgraph/diskstorage/hbase2/HBaseAdmin2_0.class
+org/janusgraph/diskstorage/hbase2/HBaseStoreManager.class
+org/janusgraph/diskstorage/hbase2/HBaseTransaction.class
+org/janusgraph/diskstorage/hbase2/HBaseKeyColumnValueStore$1.class
+org/janusgraph/diskstorage/hbase2/HBaseCompat2_0.class
+org/janusgraph/diskstorage/hbase2/HBaseCompatLoader.class
+org/janusgraph/diskstorage/hbase2/HBaseKeyColumnValueStore$RowIterator.class
+org/janusgraph/diskstorage/hbase2/HConnection2_0.class
+org/janusgraph/diskstorage/hbase2/HBaseCompat.class
+org/janusgraph/diskstorage/hbase2/AdminMask.class
+org/janusgraph/diskstorage/hbase2/HTable2_0.class
+org/janusgraph/diskstorage/hbase2/HBaseKeyColumnValueStore$HBaseGetter.class

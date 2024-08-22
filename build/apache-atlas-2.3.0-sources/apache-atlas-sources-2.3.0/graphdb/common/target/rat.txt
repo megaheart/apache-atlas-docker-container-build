@@ -1,0 +1,38 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-08-21T13:08:29+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 12
+
+Apache Licensed: 12
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/pom.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/test/java/org/apache/atlas/graph/GraphSandboxUtil.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/NativeTinkerpopQueryFactory.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/NativeTinkerpopGraphQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/TinkerpopGraphQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/HasPredicate.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/OrCondition.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/InPredicate.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/AndCondition.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/OrderByPredicate.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/tinkerpop/query/expr/QueryPredicate.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/common/src/main/java/org/apache/atlas/repository/graphdb/utils/IteratorToIterableAdapter.java
+ 
+*****************************************************

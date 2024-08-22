@@ -1,0 +1,50 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-08-21T13:08:28+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 24
+
+Apache Licensed: 24
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/pom.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasGraphIndexClient.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/GraphIndexQueryParameters.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasIndexQueryParameter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasGraph.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasVertex.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasEdgeDirection.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/GraphDatabase.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasElement.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasGraphTraversal.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasEdge.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasEdgeLabel.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasGraphIndex.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/GremlinVersion.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasGraphQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasCardinality.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/GraphDBMigrator.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasSchemaViolationException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasPropertyKey.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasGraphTraversalSource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasIndexQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AggregationContext.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasVertexQuery.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/graphdb/api/src/main/java/org/apache/atlas/repository/graphdb/AtlasGraphManagement.java
+ 
+*****************************************************

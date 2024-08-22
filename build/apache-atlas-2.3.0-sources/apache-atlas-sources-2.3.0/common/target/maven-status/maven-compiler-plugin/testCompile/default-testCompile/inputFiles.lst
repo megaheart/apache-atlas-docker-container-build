@@ -1,0 +1,5 @@
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/common/src/test/java/org/apache/atlas/utils/HdfsNameServiceResolverTest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/common/src/test/java/org/apache/atlas/ha/HAConfigurationTest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/common/src/test/java/org/apache/atlas/utils/KafkaUtilsTest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/common/src/test/java/org/apache/atlas/utils/LruCacheTest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/common/src/test/java/org/apache/atlas/utils/AtlasPathExtractorUtilTest.java

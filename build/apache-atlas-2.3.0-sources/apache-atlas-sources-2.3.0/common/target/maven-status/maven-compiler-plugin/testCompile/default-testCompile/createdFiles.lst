@@ -1,0 +1,6 @@
+org/apache/atlas/utils/HdfsNameServiceResolverTest.class
+org/apache/atlas/ha/HAConfigurationTest.class
+org/apache/atlas/utils/KafkaUtilsTest.class
+org/apache/atlas/utils/AtlasPathExtractorUtilTest$OzoneKeyValidator.class
+org/apache/atlas/utils/AtlasPathExtractorUtilTest.class
+org/apache/atlas/utils/LruCacheTest.class

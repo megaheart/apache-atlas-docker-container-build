@@ -1,0 +1,179 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-08-21T13:10:40+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 153
+
+Apache Licensed: 153
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/pom.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/service/ActiveInstanceStateTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/service/SecureEmbeddedServerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/service/CuratorFactoryTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/service/SecureEmbeddedServerTestBase.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/service/AtlasZookeeperSecurityPropertiesTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/service/ActiveInstanceElectorServiceTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/service/ServiceStateTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/security/FileAuthenticationTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/security/BaseSSLAndKerberosTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/security/SSLAndKerberosTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/security/SSLTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/security/UserDaoTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/security/BaseSecurityTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/security/NegativeSSLAndKerberosTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/DataSetLineageJerseyResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/BasicSearchIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/EntityV2JerseyResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/TypedefsJerseyResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/GlossaryClientV2IT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/EntityJerseyResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/EntityLineageJerseyResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/DebugMetricsIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/BaseResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/AdminJerseyResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/TypesJerseyResourceIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/integration/LineageClientV2IT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/resources/AdminExportTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/resources/AdminResourceTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/resources/AdminExportImportTestIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/resources/EntityResourceTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/listeners/LoginProcessorIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/util/ServletsTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/filters/AuditFilterTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/filters/ActiveServerFilterTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/filters/AtlasCSRFPreventionFilterTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/filters/AtlasAuthenticationSimpleFilterIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/filters/AtlasAuthenticationKerberosFilterTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/adapters/TestEntitiesREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/adapters/TypeDefsRESTTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/adapters/TestEntityRESTDelete.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/adapters/TestEntityREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/TestUtils.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/web/setup/SetupStepsTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/AtlasIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/util/RestUtilsTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/CredentialProviderUtilityIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/examples/QuickStartIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/examples/QuickStartV2IT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/notification/NotificationHookConsumerIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/notification/EntityNotificationIT.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/notification/NotificationEntityChangeListenerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/notification/AdaptiveWaiterTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/notification/NotificationHookConsumerTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/notification/NotificationHookConsumerKafkaTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/java/org/apache/atlas/notification/preprocessor/AWSS3V2PreprocessorTest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/test/webapp/WEB-INF/web.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/resources/spring-security.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/resources/atlas-buildinfo.properties
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/LocalServletRequest.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/errors/NotFoundExceptionMapper.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/errors/AtlasBaseExceptionMapper.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/errors/ExceptionMapperUtil.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/errors/AllExceptionMapper.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/model/DebugMetrics.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/model/User.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/SecureEmbeddedServer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/ActiveInstanceState.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/EmbeddedServer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/TimedAspectInterceptor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/DebugMetricsWrapper.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/ActiveInstanceElectorService.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/AtlasZookeeperSecurityProperties.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/ServiceState.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/CuratorFactory.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/AtlasDebugMetricsSink.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/UserService.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/service/AtlasDebugMetricsSource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/servlets/AtlasHttpServlet.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/servlets/AtlasErrorServlet.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/servlets/AtlasLoginServlet.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasAuthenticationFailureHandler.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/UserAuthorityGranter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasLdapAuthenticationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasPamAuthenticationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/PamLoginModule.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasAuthenticationException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasADAuthenticationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasAbstractAuthenticationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasKeycloakAuthenticationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasFileAuthenticationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasSecurityConfig.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasAuthenticationProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/AtlasAuthenticationSuccessHandler.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/security/PamPrincipal.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/resources/TypesResource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/resources/MetadataDiscoveryResource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/resources/LineageResource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/resources/AdminResource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/resources/DataSetLineageResource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/resources/EntityResource.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/dao/UserDao.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/listeners/LoginProcessor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/util/Servlets.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/util/LineageUtils.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/util/AtlasJsonProvider.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/util/DateTimeHelper.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AtlasKnoxSSOAuthenticationFilter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AuditFilter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/SSOAuthenticationProperties.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/HeadersUtil.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/NullServletContext.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AtlasHeaderFilter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AtlasCSRFPreventionFilter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/RestUtil.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/SSOAuthentication.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AtlasDelegatingAuthenticationEntryPoint.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AtlasResponseRequestWrapper.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AtlasAuthenticationFilter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/StaleTransactionCleanupFilter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/AtlasAuthenticationEntryPoint.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/filters/ActiveServerFilter.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/params/AbstractParam.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/params/DateTimeParam.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/params/BooleanParam.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/rest/EntityREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/rest/GlossaryREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/rest/TypesREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/rest/LineageREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/rest/RelationshipREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/rest/DiscoveryREST.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/setup/SetupSteps.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/web/setup/KerberosAwareListener.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/util/CredentialProviderUtility.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/examples/QuickStartV2.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/examples/QuickStart.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/Atlas.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/NotificationEntityChangeListener.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/EntityNotificationSender.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/EntityNotificationListenerV2.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/EntityCorrelationManager.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/preprocessor/HiveTableDDLPreprocessor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/preprocessor/EntityPreprocessor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/preprocessor/PreprocessorContext.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/preprocessor/HiveDbDDLPreprocessor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/preprocessor/RdbmsPreprocessor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/preprocessor/AWSS3V2Preprocessor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/preprocessor/HivePreprocessor.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/java/org/apache/atlas/notification/NotificationHookConsumer.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/webapp/WEB-INF/web.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/webapp/WEB-INF/applicationContext.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/webapp/login.html.template
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/webapp/src/main/webapp/error.html.template
+ 
+*****************************************************

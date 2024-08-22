@@ -1,0 +1,5 @@
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/common/src/main/java/org/apache/atlas/AtlasBaseClient.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/common/src/main/java/org/apache/atlas/AtlasServiceException.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/common/src/main/java/org/apache/atlas/AtlasServerEnsemble.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/common/src/main/java/org/apache/atlas/ResourceCreator.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/client/common/src/main/java/org/apache/atlas/security/SecureClientUtils.java

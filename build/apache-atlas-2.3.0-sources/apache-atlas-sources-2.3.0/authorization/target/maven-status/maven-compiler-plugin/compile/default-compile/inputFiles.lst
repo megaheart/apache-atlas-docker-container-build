@@ -1,0 +1,16 @@
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasAuthorizer.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasEntityAccessRequest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasTypesDefFilterRequest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasPrivilege.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasTypeAccessRequest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/simple/AtlasSimpleAuthzUpdateTool.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasAccessRequest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasNoneAuthorizer.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasAdminAccessRequest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasSearchResultScrubRequest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasRelationshipAccessRequest.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasAuthorizationException.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/simple/AtlasSimpleAuthzPolicy.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/simple/AtlasSimpleAuthorizer.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasAuthorizationUtils.java
+/apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/authorization/src/main/java/org/apache/atlas/authorize/AtlasAuthorizerFactory.java

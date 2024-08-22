@@ -1,0 +1,37 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-08-21T13:08:18+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 11
+
+Apache Licensed: 11
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/pom.xml
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/RequestContext.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/exception/EntityNotFoundException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/exception/NotFoundException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/ha/AtlasServerIdSelector.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/listener/ActiveStateChangeHandler.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/listener/TypesChangeListener.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/listener/EntityChangeListener.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/setup/SetupStep.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/java/org/apache/atlas/setup/SetupException.java
+  AL    /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/server-api/src/main/test/org/apache/atlas/ha/AtlasServerIdSelectorTest.java
+ 
+*****************************************************
