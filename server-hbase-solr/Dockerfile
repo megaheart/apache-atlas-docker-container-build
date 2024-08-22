@@ -1,4 +1,4 @@
-FROM atlas-build AS build
+FROM atlas-hbase-solr-build AS build
 WORKDIR /apache-atlas-2.3.0-sources/apache-atlas-sources-2.3.0/distro/target/
 # Extract file apache-atlas-2.3.0-server.tar.gz to /app/
 RUN mkdir /app && tar -xvf apache-atlas-2.3.0-server.tar.gz -C /app
@@ -17,6 +17,7 @@ WORKDIR /app
 ENV MANAGE_LOCAL_HBASE=true
 ENV MANAGE_LOCAL_SOLR=true
 EXPOSE 21000
-# CMD [ "/app/bin/atlas_start.py" ]
+EXPOSE 21050
+# CMD [ "/app/bin/atlas_start.py && while true; do sleep 1000; done" ]
 # forever loop in sh
 CMD ["sh", "-c", "while true; do sleep 1000; done"]

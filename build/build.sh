@@ -1,1 +1,1 @@
-docker buildx build -t atlas-hbase-solr-build --progress plain .
+docker buildx build -t atlas-build --progress plain -f build/Dockerfile .
